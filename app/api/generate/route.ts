@@ -30,4 +30,3 @@ Rules:
     reply: response.choices[0].message.content
   });
 }
-// Generate API route placeholder
