@@ -49,4 +49,3 @@ export default function Dashboard() {
     </div>
   );
 }
-// Dashboard page placeholder
